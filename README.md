@@ -20,6 +20,8 @@ Analysis:
 ->Model is over-fitting
 ->Model can be further improved by reducing the number of parameters.
 
+Link: https://github.com/Sandeeppasala/EVA_S5/blob/master/EVA4_Session_F1.ipynb
+
 ###################################################
 Experiment: 2
 ###################################################
@@ -35,6 +37,8 @@ Analysis:
 ->Params can be further reduced
 ->Model is Over-fitting
 ->Model can be further improved by adding batch normalization.
+
+Link: https://github.com/Sandeeppasala/EVA_S5/blob/master/EVA4_Session_F2.ipynb
 
 ###############################################
 Experiment: 3
@@ -52,6 +56,8 @@ Model is light weight as params are reduced
 Model is Over-fitting after batch normalization
 Model can be further improved.
 
+link: https://github.com/Sandeeppasala/EVA_S5/blob/master/EVA4_Session_F3.ipynb
+
 ###############################################
 Experiment: 4
 ###############################################
@@ -67,6 +73,8 @@ Analysis:
 Model is light weight.
 This is a fit model.
 Model can be further improved.
+
+link: https://github.com/Sandeeppasala/EVA_S5/blob/master/EVA4_Session_F4.ipynb
 
 ##################################################
 Experiment: 5
@@ -84,3 +92,5 @@ Analysis:
 Model is light weight 
 This is a fit model.
 Model can be further improved.
+
+link: https://github.com/Sandeeppasala/EVA_S5/blob/master/EVA4_Session_F5.ipynb
